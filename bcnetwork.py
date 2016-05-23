@@ -1,7 +1,7 @@
 import SloppyCell.ReactionNetworks
 import SloppyCell.ReactionNetworks.Reactions as Reactions
 from bcreactions import *
-#commit
+#commit test
 network = SloppyCell.ReactionNetworks.Network('bc')
 
 network.addCompartment('cell')
